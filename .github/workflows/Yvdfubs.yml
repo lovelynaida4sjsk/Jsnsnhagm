@@ -1,4 +1,4 @@
-name: Jumapp
+name: Jumfdgapp
 on: 
   push:
     branches: [ "main" ]
